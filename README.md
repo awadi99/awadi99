@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya waghmare</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<source align="right" alt="coding" width="400"src="https://images.app.goo.gl/eYeXh2GTGPjnUGCe9.gif">
+
 - 🔭 I’m currently working on **Java data structure.**
 
 - 📫 How to reach me **adityawaghmare9990@gmail.com**
