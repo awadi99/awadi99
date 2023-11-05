@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java data structure.**
 
-- 📫 How to reach me ***
+- 📫 How to reach me *adityawaghmare9990+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
