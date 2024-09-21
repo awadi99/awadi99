@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =100px width =100px ">, I'm Aditya Waghmare</h1>
+<h1 align="center">Hi <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =50px width =50px ">, I'm Aditya Waghmare</h1>
 <h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
 
 - 🔭 I’m working on [Spotify UI Clone 🎶](https://github.com/awadi99/tutorial-spotify-ui-design-clone)
