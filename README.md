@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--phRwdEFM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg" height=575px width=100% style="border-radius: 25px;">
+<img src="https://awadi99.my.canva.site/aditya-waghmare" height=575px width=100% >
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/awadi99/awadi99"/> 
