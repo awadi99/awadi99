@@ -61,7 +61,7 @@
  <img src="https://img.shields.io/badge/-awadi99-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityawaghmare9990+github@gmail.com"/>
 </a>
 <a href="www.linkedin.com/in/aditya-waghmare-95271b25a">
- <img src="https://img.shields.io/badge/-awadi99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aditya-waghmare-95271b25a"/>
+ <img src="www.linkedin.com/in/aditya-waghmare-95271b25a"/>
 </a>
  <a href="https://twitter.com/ritikhere307">
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
