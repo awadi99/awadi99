@@ -1,15 +1,20 @@
-<h1 align="center">Hi <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =50px width =50px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
-<h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--phRwdEFM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg" height=575px width=100% style="border-radius: 25px;">
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/awadi99/awadi99"/> 
+ <img src="https://badges.pufler.dev/years/awadi99"/> 
+ <img src="https://badges.pufler.dev/repos/awadi99"/>
+ <img src="https://badges.pufler.dev/commits/monthly/awadi99" />
 
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height =500px width= 500px align="right">
+</p>
+<h1 align="center">Hi <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
+<h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
+
+<p align="center">Trying to make "Hello World" in the New Profile I am a Software Engineer now pursuing my passion for education. I am a Computer Engineering from DPU, PImpri Pune. I have interned with Aspire Software web worked on a few research projects  Technology excites me and I am always in awe Of the Change it drives in the world, Certain Skills that I have worked with include Data Structures and Algorithms (Java), Web Development (Node-Js, MySQL), Linux OS (with GO) & Machine Learning (Python). And what I might lack in skills I make up for with my determination to learn.Outside of tech, I am a tea lover.</p>
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
+<p align="center">
 
 - 🔭 I’m working on [Spotify UI Clone 🎶(https://github.com/awadi99/tutorial-spotify-ui-design-clone)
 
@@ -21,16 +26,67 @@
 
 - ⚡ Fun fact **outside the developer I am tealover☕ and good runner🏃‍♂️**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aditya-waghmare-95271b25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditya-waghmare-95271b25a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/awadi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="awadi99" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awadi99&show_icons=true&locale=en&layout=compact" alt="awadi99" /></p>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awadi99&" alt="awadi99" /></p>
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: ritikpr307@gmail.com">
+ <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"/>
+</a>
+<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+</a>
+ <a href="https://twitter.com/ritikhere307">
+ <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
+</p>
+
+
+
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=awadi99&show_icons=true&theme=radical&line_height=27">
+  &nbsp;
+  &nbsp;
+  <img align=left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=awadi99&show=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=awadi99&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
