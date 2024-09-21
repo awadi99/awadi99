@@ -1,4 +1,4 @@
-<img src="https://awadi99.my.canva.site/aditya-waghmare" height=575px width=100% >
+<img src="Aditya waghmare (3).png" height=575px width=100% >
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/awadi99/awadi99"/> 
