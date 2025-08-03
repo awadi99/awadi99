@@ -1,10 +1,7 @@
 <img src="Aditya waghmare (3).png" height=550px width=100% >
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/awadi99/awadi99"/> 
- <img src="https://badges.pufler.dev/years/awadi99"/> 
- <img src="https://badges.pufler.dev/repos/awadi99"/>
- <img src="https://badges.pufler.dev/commits/monthly/awadi99" />
+
 
 </p>
 <h1 align="center">Hi <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
