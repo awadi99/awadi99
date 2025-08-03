@@ -13,7 +13,7 @@
 &nbsp;
 <p align="center">
 
-- 🔭 I’m working on [Spotify UI Clone 🎶(https://github.com/awadi99/tutorial-spotify-ui-design-clone)
+- 🔭 I’m working on [Spotify Clone] 🎶
 
 - 🌱 I’m currently learning **⚒️Java Dsa And Web Development**
 
