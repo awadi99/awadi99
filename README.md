@@ -30,7 +30,7 @@
         <li>⚡ Fun fact: outside the developer I am tealover☕ and good runner🏃‍♂️</li>
       </ul>
     </td>
-       <td width="50%">
+       <td width="50%" cellspacing="20">
       <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="100%" style="border-radius: 20px; margin-bottom: 20px;">
     </td>
   </tr>
