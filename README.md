@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td>
-      <img src="Aditya waghmare (3).png" height="500px" width="100%" style="border-radius: 20px;">
+      <img src="Aditya waghmare (3).png" height="500px" width="100%">
     </td>
     <td>
-      <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height="500px" width="100%" style="border-radius: 20px;">
+      <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height="500px" width="100%">
     </td>
   </tr>
 </table>
