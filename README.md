@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table>
+<table width="100vh">
   <tr>
     <!-- Left Column: Info List -->
     <td width="50%">
