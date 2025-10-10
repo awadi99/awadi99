@@ -1,11 +1,14 @@
 
-
-      <img src="Aditya waghmare (3).png" height="500px" width="100%">
-      <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height="500px" width="100%">
-
-
-
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="Aditya waghmare (3).png" height="660px" width="100%" style="border-radius: 20px;">
+    </td>
+    <td width="50%">
+      <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height="550px" width="100%" style="border-radius: 20px;">
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Hi
  <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
