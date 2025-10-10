@@ -6,7 +6,8 @@
 
 
 </p>
-<h1 align="center">Hi <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
+<h1 align="center">Hi<img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height=50px width=40px style="border-radius:20px;" >
+ <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
 <h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
 
 <p align="center">Trying to make "Hello World" in the New Profile I am a Software Engineer now pursuing my passion for education. I am a Computer Engineering from DPU, PImpri Pune. I have interned with Aspire Software web worked on a few research projects  Technology excites me and I am always in awe Of the Change it drives in the world, Certain Skills that I have worked with include Data Structures and Algorithms (Java), Web Development (Node-Js, MySQL), Linux OS (with GO) & Machine Learning (Python). And what I might lack in skills I make up for with my determination to learn.Outside of tech, I am a tea lover.</p>
