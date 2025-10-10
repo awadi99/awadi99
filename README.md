@@ -18,12 +18,11 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table style="display:flex;">
+<table>
   <tr>
     <!-- Left Column: Info List -->
     <td width="50%">
       <ul>
-        <li>🔭 I’m working on <a href="https://github.com/awadi99?tab=repositories">Spotify Clone</a> 🎶</li>
         <li>🌱 I’m currently learning <b>⚒️Java Dsa And Web Development</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/awadi99?tab=repositories">GitHub</a></li>
         <li>📫 How to reach me <b>adityawaghmare9990+github@gmail.com</b></li>
