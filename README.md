@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table>
+<table style="display:flex;">
   <tr>
     <!-- Left Column: Info List -->
     <td width="50%">
