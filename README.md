@@ -1,12 +1,11 @@
 
-<img src="Aditya waghmare (3).png" height=550px width=100% >
-<img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height=550px width=100% style="border-radius:20px;" >
+<img src="Aditya waghmare (3).png" height=550px width=100% src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height=550px width=100% style="border-radius:20px;" >
 <p align="center">
  
 
 
 </p>
-<h1 align="center">Hi<img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height=50px width=40px style="border-radius:20px;" >
+<h1 align="center">Hi
  <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
 <h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
 
