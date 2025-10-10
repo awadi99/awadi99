@@ -32,7 +32,7 @@
     </td>
     <!-- Right Column: GIF -->
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/awadi99/awadi99/main/helo.gif" 
+      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" 
            height="550px" width="100%" style="border-radius: 20px;">
     </td>
   </tr>
