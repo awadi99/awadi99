@@ -1,5 +1,5 @@
 
-<img src="Aditya waghmare (3).png" height=550px width=100% height=550px width=50% style="border-radius:20px;" >
+<img src="Aditya waghmare (3).png" height=550px width=50% >
 <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height=550px width=50% style="border-radius:20px;">
 <p align="center">
  
