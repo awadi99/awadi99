@@ -18,10 +18,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table align="center" width="80%" >
+<table align="center" width="80%">
   <tr>
-    <!-- Image Column -->
-    <td width="50%" >
+    <!-- Left Column: Info List -->
+    <td width="50%">
       <ul style="list-style: none; padding: 0; font-size: 16px;">
         <li>🔭 I’m working on <a href="https://github.com/awadi99?tab=repositories">Spotify Clone</a> 🎶</li>
         <li>🌱 I’m currently learning <b>⚒️Java Dsa And Web Development</b></li>
@@ -30,8 +30,10 @@
         <li>⚡ Fun fact: outside the developer I am tealover☕ and good runner🏃‍♂️</li>
       </ul>
     </td>
-       <td width="50%" cellspacing="20">
-      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="100%" style="border-radius: 20px; margin-bottom: 20px;">
+    <!-- Right Column: GIF -->
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/awadi99/awadi99/main/helo.gif" 
+           height="550px" width="100%" style="border-radius: 20px;">
     </td>
   </tr>
 </table>
