@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table  width="400px" >
+<table  width="80%" >
   <tr>
     <!-- Left Column: Info List -->
     <td width="50%">
@@ -33,7 +33,7 @@
     <!-- Right Column: GIF -->
     <td width="50%">
       <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" 
-           height="550px" width="100%" style="border-radius: 20px;">
+           height="550px" width="50%" style="border-radius: 20px;">
     </td>
   </tr>
 </table>
