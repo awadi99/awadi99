@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="900px" width="100%" style="border-radius: 20px;">
+      <img src="https://github.com/awadi99/awadi99/blob/main/download.gif" height="900px" width="100%" style="border-radius: 20px;">
     </td>
     <td width="50%">
       <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height="550px" width="100%" style="border-radius: 20px;">
@@ -19,7 +19,7 @@
 &nbsp;
 &nbsp;
 <p align="center" width="50%">
-      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="50%" style="border-radius: 20px;">
+      <!-- <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="50%" style="border-radius: 20px;"> -->
 
 - 🔭 I’m working on [Spotify Clone] 🎶
 
@@ -30,7 +30,7 @@
 - 📫 How to reach me **adityawaghmare9990+github@gmail.com**
 
 - ⚡ Fun fact **outside the developer I am tealover☕ and good runner🏃‍♂️**
-
+</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-</p>
 
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2><p align="center">
