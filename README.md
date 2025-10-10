@@ -18,11 +18,11 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table  width="80%" >
+<table>
   <tr>
     <!-- Left Column: Info List -->
     <td width="50%">
-      <ul style="list-style: none; padding: 0; font-size: 16px;">
+      <ul>
         <li>🔭 I’m working on <a href="https://github.com/awadi99?tab=repositories">Spotify Clone</a> 🎶</li>
         <li>🌱 I’m currently learning <b>⚒️Java Dsa And Web Development</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/awadi99?tab=repositories">GitHub</a></li>
@@ -33,7 +33,7 @@
     <!-- Right Column: GIF -->
     <td width="50%">
       <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" 
-           height="550px" width="50%" style="border-radius: 20px;">
+           height="550px" width="100%" style="border-radius: 20px;">
     </td>
   </tr>
 </table>
