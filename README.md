@@ -18,19 +18,25 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<p align="center" width="50%">
-      <!-- <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="50%" style="border-radius: 20px;"> -->
+<table align="center" width="80%" cellspacing="20">
+  <tr>
+    <!-- Image Column -->
+    <td width="60%">
+      <img src="Aditya waghmare (3).png" height="660px" width="100%" style="border-radius: 20px;">
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="100%" style="border-radius: 20px; margin-bottom: 20px;">
+      <ul style="list-style: none; padding: 0; font-size: 16px;">
+        <li>🔭 I’m working on <a href="https://github.com/awadi99?tab=repositories">Spotify Clone</a> 🎶</li>
+        <li>🌱 I’m currently learning <b>⚒️Java Dsa And Web Development</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/awadi99?tab=repositories">GitHub</a></li>
+        <li>📫 How to reach me <b>adityawaghmare9990+github@gmail.com</b></li>
+        <li>⚡ Fun fact: outside the developer I am tealover☕ and good runner🏃‍♂️</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m working on [Spotify Clone] 🎶
-
-- 🌱 I’m currently learning **⚒️Java Dsa And Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/awadi99?tab=repositories](https://github.com/awadi99?tab=repositories)
-
-- 📫 How to reach me **adityawaghmare9990+github@gmail.com**
-
-- ⚡ Fun fact **outside the developer I am tealover☕ and good runner🏃‍♂️**
-</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
