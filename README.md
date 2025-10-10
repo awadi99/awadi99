@@ -18,10 +18,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table align="center" width="80%" cellspacing="20">
+<table align="center" width="100%" >
   <tr>
     <!-- Image Column -->
-    <td width="50%" valign="top">
+    <td width="50%" >
       <ul style="list-style: none; padding: 0; font-size: 16px;">
         <li>🔭 I’m working on <a href="https://github.com/awadi99?tab=repositories">Spotify Clone</a> 🎶</li>
         <li>🌱 I’m currently learning <b>⚒️Java Dsa And Web Development</b></li>
