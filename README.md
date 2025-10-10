@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table align="center" width="80%">
+<table  width="80%">
   <tr>
     <!-- Left Column: Info List -->
     <td width="50%">
