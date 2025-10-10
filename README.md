@@ -22,10 +22,9 @@
   <tr>
     <!-- Image Column -->
     <td width="60%">
-      <img src="Aditya waghmare (3).png" height="660px" width="100%" style="border-radius: 20px;">
+      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="100%" style="border-radius: 20px; margin-bottom: 20px;">
     </td>
     <td width="40%" valign="top">
-      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="550px" width="100%" style="border-radius: 20px; margin-bottom: 20px;">
       <ul style="list-style: none; padding: 0; font-size: 16px;">
         <li>🔭 I’m working on <a href="https://github.com/awadi99?tab=repositories">Spotify Clone</a> 🎶</li>
         <li>🌱 I’m currently learning <b>⚒️Java Dsa And Web Development</b></li>
