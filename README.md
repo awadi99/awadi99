@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<table align="center" width="100%" >
+<table align="center" width="80%" >
   <tr>
     <!-- Image Column -->
     <td width="50%" >
