@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/awadi99/awadi99/blob/main/download.gif" height="900px" width="100%" style="border-radius: 20px;">
+      <img src="https://github.com/awadi99/awadi99/blob/main/Designer%20at%20work.gif" height="900px" width="100%" style="border-radius: 20px;">
     </td>
     <td width="50%">
       <img src="https://github.com/awadi99/awadi99/blob/main/helo.gif" height="550px" width="100%" style="border-radius: 20px;">
