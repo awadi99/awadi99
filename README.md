@@ -44,7 +44,7 @@
 
 <h3 align="left">Frontend / UI Libraries</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,threejs" />
 </p>
 
 
@@ -64,17 +64,18 @@
 
 
 <hr/>
-<h3 align="left">Tools & Others</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,google" />
-</p>
-
-
-<hr/>
 <h3 align="left">Languages</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
+
+<hr/>
+<h3 align="left">Tools & Others</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,gcp,vite,vercel,vscode,replit,postman,powershell" />
+</p>
+
+
 
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2><p align="center">
