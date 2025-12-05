@@ -72,7 +72,7 @@
 <hr/>
 <h3 align="left">Tools & Others</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gcp,vite,vercel,vscode,replit,postman,powershell" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,replit,postman,powershell,vite,vercel,gcp" />
 </p>
 
 
