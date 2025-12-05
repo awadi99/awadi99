@@ -40,20 +40,41 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+
+
+<h3 align="left">Frontend / UI Libraries</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react" />
 </p>
 
+
+<hr/>
+<hr/>
+<h3 align="left">Backend / Frameworks</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,java" />
+</p>
+
+
+<hr/>
+<h3 align="left">Databases</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+
+<hr/>
+<h3 align="left">Tools & Others</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,google" />
+</p>
+
+
+<hr/>
+<h3 align="left">Languages</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js" />
+</p>
 
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2><p align="center">
