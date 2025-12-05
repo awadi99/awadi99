@@ -48,7 +48,7 @@
 </p>
 
 
-<hr/>
+
 <hr/>
 <h3 align="left">Backend / Frameworks</h3>
 <p align="left">
