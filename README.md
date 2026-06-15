@@ -12,9 +12,26 @@
 
 <h1 align="center">Hi
  <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s" height="40px" width="40px" style="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
-<h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | Freelance Full Stack Developer</h3>
 
-<p align="center">Trying to make "Hello World" in the New Profile. I am a Software Engineer now pursuing my passion for education. I am a Computer Engineering graduate from DPU, Pimpri Pune. I have interned with Aspire Software and worked on a few research projects. Technology excites me and I am always in awe of the change it drives in the world. Certain Skills that I have worked with include Data Structures and Algorithms (Java), Web Development (Node-Js, MySQL), Linux OS (with GO) & Machine Learning (Python). <b>I am currently available for freelance projects and collaborations!</b> And what I might lack in skills I make up for with my determination to learn. Outside of tech, I am a tea lover.</p>
+<p align="center">
+Hi, I'm <b><span style="color:#8A2BE2;">Aditya Waghmare</span></b>, a <b><span style="color:#8A2BE2;">Software Engineer</span></b> and <b><span style="color:#8A2BE2;">MERN Stack Developer</span></b> from India 🇮🇳.
+
+I enjoy building modern web applications and learning new technologies. I have experience as a <b><span style="color:#8A2BE2;">Web Developer Intern</span></b> and as a <b><span style="color:#8A2BE2;">Freelance Full Stack Developer</span></b>, where I have developed websites and web applications for real clients.
+
+My <b><span style="color:#8A2BE2;">Skills</span></b> include Java, Data Structures & Algorithms, React.js, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Git, and GitHub. I enjoy solving problems, building user-friendly applications, and turning ideas into real-world projects.
+
+I have worked on <b><span style="color:#8A2BE2;">Projects</span></b> such as real-time chat applications, educational platforms, business websites, and full-stack MERN applications. Through <b><span style="color:#8A2BE2;">Freelancing</span></b>, I have gained experience working with clients, understanding requirements, and delivering complete solutions.
+
+🚀 Currently available for <b><span style="color:#8A2BE2;">Freelance Projects</span></b>, collaborations, and <b><span style="color:#8A2BE2;">Software Developer Opportunities</span></b>.
+
+🌱 Currently learning <b><span style="color:#8A2BE2;">Advanced MERN Stack</span></b>, <b><span style="color:#8A2BE2;">Software Engineering</span></b>, and improving my <b><span style="color:#8A2BE2;">DSA Skills</span></b>.
+
+☕ Outside of coding, I enjoy tea, running, traveling, and continuous learning.
+
+</p>
+
+
 &nbsp;
 &nbsp;
 &nbsp;
