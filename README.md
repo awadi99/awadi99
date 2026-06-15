@@ -11,10 +11,10 @@
 </table>
 
 <h1 align="center">Hi
- <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s"height =40px width =40px" style ="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
+ <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s" height="40px" width="40px" style="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
 <h3 align="center">A passionate🧑‍💻 Web developer and Software Engineer from India</h3>
 
-<p align="center">Trying to make "Hello World" in the New Profile I am a Software Engineer now pursuing my passion for education. I am a Computer Engineering from DPU, PImpri Pune. I have interned with Aspire Software web worked on a few research projects  Technology excites me and I am always in awe Of the Change it drives in the world, Certain Skills that I have worked with include Data Structures and Algorithms (Java), Web Development (Node-Js, MySQL), Linux OS (with GO) & Machine Learning (Python). And what I might lack in skills I make up for with my determination to learn.Outside of tech, I am a tea lover.</p>
+<p align="center">Trying to make "Hello World" in the New Profile. I am a Software Engineer now pursuing my passion for education. I am a Computer Engineering graduate from DPU, Pimpri Pune. I have interned with Aspire Software and worked on a few research projects. Technology excites me and I am always in awe of the change it drives in the world. Certain Skills that I have worked with include Data Structures and Algorithms (Java), Web Development (Node-Js, MySQL), Linux OS (with GO) & Machine Learning (Python). <b>I am currently available for freelance projects and collaborations!</b> And what I might lack in skills I make up for with my determination to learn. Outside of tech, I am a tea lover.</p>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -40,14 +40,10 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-
-
 <h3 align="left">Frontend / UI Libraries</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,threejs" />
 </p>
-
-
 
 <hr/>
 <h3 align="left">Backend / Frameworks</h3>
@@ -55,13 +51,11 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,redux,java" />
 </p>
 
-
 <hr/>
 <h3 align="left">Databases</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
 
 <hr/>
 <h3 align="left">Languages</h3>
@@ -75,27 +69,21 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,postman,powershell,vite,vercel,gcp" />
 </p>
 
-
-
-
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2><p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aditya-waghmare-95271b25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditya-waghmare-95271b25a" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/aw_adi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/awadi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="awadi99" height="30" width="40" /></a>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/aditya-waghmare-95271b25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aw_adi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/awadi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-awadi99-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityawaghmare9990+github@gmail.com"/>
+<a href="mailto: adityawaghmare9990@gmail.com">
+ <img src="https://img.shields.io/badge/-awadi99-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-waghmare-95271b25a/">
- <img src="https://img.shields.io/badge/-awadi99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-waghmare-95271b25a/"/>
+ <img src="https://img.shields.io/badge/-awadi99-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
-
-
-
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -103,16 +91,21 @@
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=awadi99&show_icons=true&theme=radical&line_height=27">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awadi99&show_icons=true&theme=radical&line_height=27">
   &nbsp;
   &nbsp;
-  <img align=left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=awadi99&show=html,tailwindcss,material-ui,mongoDB,react.js,javascript,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadi99&show=html,tailwindcss,material-ui,mongoDB,react.js,javascript,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=awadi99&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=awadi99&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
+
+<!-- Activity Graph -->
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=awadi99&theme=radical&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 <hr>
 
