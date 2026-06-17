@@ -10,6 +10,7 @@
   </tr>
 </table>
 
+
 <h1 align="center">Hi
  <img src="https://media0.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=6c09b952v6ng29bsa2hkkarrcbqknae5eywo67bgld66dr58&ep=v1_stickers_related&rid=giphy.gif&ct=s" height="40px" width="40px" style="margin:100px 0px 0px 0px;">, I'm Aditya Waghmare</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | Freelance Full Stack Developer</h3>
