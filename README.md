@@ -32,7 +32,6 @@ I have worked on <b><span style="color:#8A2BE2;">Projects</span></b> such as rea
 
 </p>
 
-
 &nbsp;
 &nbsp;
 &nbsp;
